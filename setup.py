@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="plagy-mnkp",
+    name="plagy-mnk",
     version="0.1",
     author="Manish Pandey",
     author_email="mnkp.qc@gmail.com",

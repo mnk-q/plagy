@@ -13,7 +13,7 @@ It Provides 3 Scenarios to check the Plagiarism.
 
 ```
 obj = One2One(path_to_file1, path_to_file2)
-obj.preprocess()
+obj.preprocess_files()
 obj.run()
 obj.display()
 ```
