@@ -285,7 +285,3 @@ class Many2Many:
             print(f"{a}\t{b}\t{c*100}%")
 
 
-o = Many2Many(submission='submission', filetype='py')
-o.preprocess()
-o.run()
-o.display()
