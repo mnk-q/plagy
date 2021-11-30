@@ -9,6 +9,26 @@ It Provides 3 Scenarios to check the Plagiarism.
 
 3. **Many2Many** : Checks the similiarity between every pair of files in a collection of files.
 
+
+## Installation
+
+Install this package from pip directly
+
+```
+pip install plagy-mnk
+```
+or 
+```
+pip3 install plagy-mnk
+```
+
+or clone this repo in your local environment and
+
+```
+python setup.py
+```
+
+
 ### Uses
 
 ```
